@@ -1,4 +1,0 @@
-Streamlit
-pandas
-scikit-learn
-matplotlib
